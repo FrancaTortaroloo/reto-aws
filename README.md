@@ -34,6 +34,8 @@ El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
 Dentro de la carpeta `assets` se puede ver el dashboard completo. 
 
+![Dashboard completo](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Videojuegos%20m%C3%A1s%20jugados.pdf)
+
 ### Nota 2: 
 En la esquina inferior del lado izquierdo se puede apreciar lo siguiente:
 

@@ -18,7 +18,7 @@ En la carpeta `input data` se encuentra el archivo csv que se ha creado a partir
 
 Analizar la cantidad de cuentas registradas por cada año en videojuegos, el modelo de negocio que más cuentas registradas tiene y el videojuego que más cuentas registradas tiene.
 
-## Conclusión
+## Visualizaciones
 
 Se ha llegado a la conclusión que los juegos que más cuentas registradas tienen son Crossfire y Pubg, con 1 millón de cuentas registradas en cada juego. 
 
@@ -26,5 +26,5 @@ Se ha llegado a la conclusión que los juegos que más cuentas registradas tiene
 
 El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
-
+![Modelo de negocio con más cuentas registradas](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2012.54.49.png)
 

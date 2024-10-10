@@ -32,7 +32,7 @@ El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
 ### NOTA: 
 
-Dentro de la carpeta `assets` se puede ver el dashboard completo. 
+<u>Dentro de la carpeta `assets` se puede ver el dashboard completo.</u>
 
 
 ### Nota 2: 

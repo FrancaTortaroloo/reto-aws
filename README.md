@@ -28,3 +28,6 @@ El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
 ![Modelo de negocio con más cuentas registradas](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2012.54.49.png)
 
+Visualización general del dashboard:
+
+![dashboard completo](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2011.56.05.png)

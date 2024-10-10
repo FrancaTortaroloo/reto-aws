@@ -32,7 +32,10 @@ El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
 ### NOTA: 
 
-Dentro de la carpeta `assets` se puede ver el dashboard completo. En la esquina inferior del lado izquierdo se puede apreciar lo siguiente:
+Dentro de la carpeta `assets` se puede ver el dashboard completo. 
+
+### Nota 2: 
+En la esquina inferior del lado izquierdo se puede apreciar lo siguiente:
 
 ![botón de navegación](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Bot%C3%B3n%20de%20navegaci%C3%B3n.png)
 

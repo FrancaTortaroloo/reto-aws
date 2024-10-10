@@ -22,11 +22,11 @@ Analizar la cantidad de cuentas registradas por cada año en videojuegos, el mod
 
 Se ha llegado a la conclusión que los juegos que más cuentas registradas tienen son Crossfire y Pubg, con 1 millón de cuentas registradas en cada juego. 
 
-![Juegos más descargados](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2012.39.14.png)
+![Juegos más descargados](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Videojuegos%20con%20m%C3%A1s%20cuentas%20registradas.png)
 
 El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
-![Modelo de negocio con más cuentas registradas](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2012.54.49.png)
+![Modelo de negocio con más cuentas registradas](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Modelo%20de%20negocio%20con%20m%C3%A1s%20cuentas%20registradas.png)
 
 `En conclusión`, si quieren lanzar un juego que tenga muchas cuentas registradas, tiene que ser uno de guerra ya que es el estilo del Pubg y Crossfire y del estilo competitivo, eso atrae más público. Por otro lado, si lo quieren hacer rentable, ¡a buscarse sponsors!
 
@@ -36,7 +36,7 @@ Dentro de la carpeta `assets` se puede ver el dashboard completo. En la esquina 
 
 ![botón de navegación](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Bot%C3%B3n%20de%20navegaci%C3%B3n.png)
 
-Como es una imagen, no se puede distinguir que es un botón de navegación, en él se puede elegir el año y se puede ver qué juego tuvo más cuentas registradas en ese año. 
+Como es una imagen, no se puede distinguir que es un botón de navegación, en él se puede elegir el año y se puede ver qué juego tuvo más cuentas registradas en ese año. Como se puede ver en la imagen de abajo, en el año 2017 el juego con más cuentas registradas fue pubg
 
 ![Ejemplo botón de navegación](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Bot%C3%B3n%20de%20navegaci%C3%B3n%20apreciaci%C3%B3n.png)
 

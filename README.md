@@ -31,3 +31,5 @@ El modelo de negocio que más cuentas registradas tiene es el gratuito.
 Visualización general del dashboard:
 
 ![dashboard completo](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2011.56.05.png)
+
+`En conclusión`, si quieren lanzar un juego que tenga muchas cuentas registradas, tiene que ser uno de guerra ya que es el estilo del Pubg y Crossfire y del estilo competitivo, eso atrae más público. Por otro lado, si lo quieren hacer rentable, ¡a buscarse sponsors!

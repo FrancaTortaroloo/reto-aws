@@ -1,4 +1,4 @@
-Proyecto: Videojuegos más jugados por número de jugadores.
+# Proyecto: Videojuegos más jugados por número de jugadores.
 
 El objetivo de este proyecto es aprender a usar AWS: el bucket de S3 y quicksight para crear un dashboard de informes interactivo.
 

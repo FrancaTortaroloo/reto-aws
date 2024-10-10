@@ -28,8 +28,15 @@ El modelo de negocio que más cuentas registradas tiene es el gratuito.
 
 ![Modelo de negocio con más cuentas registradas](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2012.54.49.png)
 
-Visualización general del dashboard:
-
-![dashboard completo](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Captura%20de%20pantalla%202024-10-10%20a%20la(s)%2011.56.05.png)
-
 `En conclusión`, si quieren lanzar un juego que tenga muchas cuentas registradas, tiene que ser uno de guerra ya que es el estilo del Pubg y Crossfire y del estilo competitivo, eso atrae más público. Por otro lado, si lo quieren hacer rentable, ¡a buscarse sponsors!
+
+### NOTA: 
+
+Dentro de la carpeta `assets` se puede ver el dashboard completo. En la esquina inferior del lado izquierdo se puede apreciar lo siguiente:
+
+![botón de navegación](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Bot%C3%B3n%20de%20navegaci%C3%B3n.png)
+
+Como es una imagen, no se puede distinguir que es un botón de navegación, en él se puede elegir el año y se puede ver qué juego tuvo más cuentas registradas en ese año. 
+
+![Ejemplo botón de navegación](https://github.com/FrancaTortaroloo/reto-aws/blob/main/assets/Bot%C3%B3n%20de%20navegaci%C3%B3n%20apreciaci%C3%B3n.png)
+

@@ -35,7 +35,7 @@ If you want to launch a game that attracts many registered accounts, it should b
 
 ### NOTE:
 
-*** Inside the `assets` folder, you can see the full dashboard. ***
+***Inside the `assets` folder, you can see the full dashboard.***
 
 ### Note 2: 
 In the bottom-left corner, the following can be seen:
